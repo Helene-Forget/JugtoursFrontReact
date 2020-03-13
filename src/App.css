@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.container, .container-fluid {
+  margin-top: 100px;/*distance entre la bande noire  et le texte*/
+  
+} 
